@@ -26,6 +26,7 @@ Welcome to the 2048 Game app repository! This app is a classic 2048 game where p
     <td><img src="images/screenshot2.jpg" alt="Screenshot 2" width="200"/></td>
   </tr>
   <tr> 
+<td><img src="images/screenshot3.jpg" alt="Screenshot 3" width="200"/></td>
 <td><img src="images/screenshot4.jpg" alt="Screenshot 4" width="200"/></td>
   </tr>
 </table>
